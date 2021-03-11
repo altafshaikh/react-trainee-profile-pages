@@ -14,15 +14,22 @@ This is a React Application where an employee cards are displayed and by clickin
 
 1.clone the repository using below command (edited)
 
- git clone 
+ ```
+ git clone https://github.com/altafshaikh/react-trainee-profile-pages.git
+```
 
 2.Install node modules using below command 
 
- npm i
+```
+npm i
+```
   
 3.Run the server using below command
 
+```
  npm run start
+
+```
 
 ## Getting Started with Create React App
 
@@ -65,9 +72,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-## Live Demo
-
-To Host the Project WE have used Vercel Platform. To see project [visit here](https://trainee-profile-pages.ialtafshaikh.vercel.app/)
 
 ## References
 
