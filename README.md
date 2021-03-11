@@ -2,6 +2,11 @@
 
 This is a React Application where an employee cards are displayed and by clicking it will display the information about a particular employee also you can create a card with help of form.
 
+## Getting Started
+
+- [Check the frontend app of the employee page](https://github.com/altafshaikh/react-trainee-profile-pages)
+- [Check the employee profile backend code](https://github.com/altafshaikh/nodejs-trainee-profile-backend)
+
 ## Prerequisites
 
 - You need to have a basic knowledge of JavaScript,React,React Route, functions and objects under your belt.
